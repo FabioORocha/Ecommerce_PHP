@@ -1,0 +1,55 @@
+
+#principal {	
+	width: 1000px;
+	border: 1px solid ;
+	margin:0px auto;	
+	/*para centralizar no IE;*/
+	position: absolute;	
+	left:50%;
+	margin-left:-500px;	
+}
+#cabecalho {	
+	width: 1000px;
+	height: 200px;
+	border: 1px solid ;
+}
+#corpo {		
+	width: 1000px;
+	border: 1px solid ;
+	height:100%;
+	
+}
+#rodape {		
+	width: 1000px;
+	height: 75px;
+	border: 1px solid ;
+		
+}
+
+#esquerda {
+	float: left;
+	width: 200px;
+	height: 500px;
+	border: 1px solid ;
+}
+#centro {
+	
+	float: left;
+	width: 790px;
+	border: 1px  ;
+	}
+
+#login {
+	text-align:middle;
+	width: 400px;
+	height: 200px;
+	margin:0px auto;
+	
+}
+
+
+
+
+
+
+
